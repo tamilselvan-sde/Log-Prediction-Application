@@ -1,6 +1,6 @@
 streamlit
 numpy
-pickle-mixin
 scikit-learn
 tensorflow
-sentence-transformers
+sentence-transformers==2.2.2
+transformers==4.31.0
